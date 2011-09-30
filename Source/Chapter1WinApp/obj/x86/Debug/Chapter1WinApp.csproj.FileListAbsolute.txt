@@ -1,0 +1,13 @@
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\bin\Debug\Chapter1WinApp.exe
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\bin\Debug\Chapter1WinApp.pdb
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.frmMain.resources
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.Properties.Resources.resources
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.exe
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.pdb
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\bin\Debug\DALLib.dll
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\bin\Debug\DALLib.pdb
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.frmDepreciation.resources
+C:\CSProjects\Chapter1_Redo_Solution\Source\Chapter1WinApp\obj\x86\Debug\Chapter1WinApp.frmInvestment.resources
