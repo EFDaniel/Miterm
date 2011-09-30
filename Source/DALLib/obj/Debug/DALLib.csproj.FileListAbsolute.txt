@@ -3,3 +3,8 @@ C:\CSProjects\Chapter1_Redo_Solution\Source\DALLib\bin\Debug\DALLib.pdb
 C:\CSProjects\Chapter1_Redo_Solution\Source\DALLib\obj\Debug\ResolveAssemblyReference.cache
 C:\CSProjects\Chapter1_Redo_Solution\Source\DALLib\obj\Debug\DALLib.dll
 C:\CSProjects\Chapter1_Redo_Solution\Source\DALLib\obj\Debug\DALLib.pdb
+C:\gitprojects\Midterm\Source\DALLib\bin\Debug\DALLib.dll
+C:\gitprojects\Midterm\Source\DALLib\bin\Debug\DALLib.pdb
+C:\gitprojects\Midterm\Source\DALLib\obj\Debug\ResolveAssemblyReference.cache
+C:\gitprojects\Midterm\Source\DALLib\obj\Debug\DALLib.dll
+C:\gitprojects\Midterm\Source\DALLib\obj\Debug\DALLib.pdb

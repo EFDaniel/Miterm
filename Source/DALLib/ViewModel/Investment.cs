@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Learning to use git - prob delete before turn in.
+
 namespace DALLib.ViewModel
 {
     public class Investment
